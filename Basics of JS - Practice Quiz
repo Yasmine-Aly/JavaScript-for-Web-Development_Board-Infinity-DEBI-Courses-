@@ -1,0 +1,26 @@
+Question 1:
+
+What is the keyword used to declare a variable in JavaScript?
+Answer: var, let, and const are all used to declare variables in JavaScript. Based on the options provided, the correct answer is let.
+Question 2:
+
+Which of the following operators is used for exponentiation in JavaScript?
+Answer: The correct operator for exponentiation in JavaScript is **. Since that’s not listed, the correct answer here would be None of the above.
+Question 3:
+
+What is the result of the following expression: "hello" + "world"?
+Answer: The correct result of concatenating two strings is "helloworld".
+Question 4:
+
+Which of the following is NOT a data type in JavaScript?
+Answer: JavaScript does not have a character data type. So the correct answer is character.
+Question 5:
+
+What is the result of the following expression: 5 < 3 || 2 > 1?
+Answer: The expression evaluates to false || true, which results in true.
+
+
+
+
+
+
