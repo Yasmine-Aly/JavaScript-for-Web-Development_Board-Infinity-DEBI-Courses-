@@ -1,0 +1,80 @@
+Question 1:
+
+Which keyword is used to declare a block of code to be executed if a specific condition is true in an "if-else" statement?
+Answer: if
+Question 2:
+
+What is the purpose of the "else if" statement in programming?
+Answer: To conditionally execute a block of code when a specific condition is true, following an "if" statement.
+Question 3:
+
+Which keyword is used to exit a loop or terminate a function in JavaScript?
+Answer: return (used to terminate a function). break is used to exit a loop.
+Question 4:
+
+Which operator is used to compare two values for equality in JavaScript?
+Answer: == (or === for strict equality)
+Question 5:
+
+What is the result of the following expression: "10" == 10?
+Answer: true (loose equality, types are coerced)
+Question 6:
+
+What is the result of the following expression: "apple" > "banana"?
+Answer: false (based on lexicographical order)
+Question 7:
+
+Which operator is used to find the length of a string in JavaScript?
+Answer: length (not an operator but a property)
+Question 8:
+
+What is the result of the following expression: "hello".toUpperCase()?
+Answer: "HELLO"
+Question 9:
+
+Which method is used to extract a specific portion of a string in JavaScript?
+Answer: slice()
+Question 10:
+
+What is the purpose of the "if" statement in programming?
+Answer: To execute a block of code only if a certain condition is true.
+Question 11:
+
+Which of the following is not a comparison operator in programming?
+Answer: || (logical operator, not a comparison operator)
+Question 12:
+
+What is the result of the following expression: (5 > 3 && 2 < 4)?
+Answer: true
+Question 13:
+
+Which of the following is a valid JavaScript loop structure?
+Answer: for loop (also while loop)
+Question 14:
+
+What is the purpose of the "break" statement in a loop?
+Answer: It exits the loop completely, regardless of the current iteration.
+Question 15:
+
+Which keyword is used to exit the current iteration and start the next iteration in a loop?
+Answer: continue
+Question 16:
+
+What is the scope of a variable defined inside a function?
+Answer: Function scope
+Question 17:
+
+Which of the following is the correct syntax to define a function in JavaScript?
+Answer: function myFunction() { }
+Question 18:
+
+What is the return type of a function that does not explicitly return a value?
+Answer: undefined
+Question 19:
+
+What is the purpose of the "switch" statement in programming?
+Answer: To conditionally execute code based on multiple conditions.
+Question 20:
+
+Which of the following is not a valid JavaScript function declaration?
+Answer: myFunction = function() { }; (this is valid syntax for a function expression but not a declaration).
