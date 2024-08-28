@@ -1,0 +1,16 @@
+_What is JavaScript?
+JavaScript is a pl that used to make websites more interactive and dynamic.
+JavaScript is executed by web browser
+_Why it is called javascript?
+it was called mocha then livescript then javascript 
+_Where javascript can be executed beyond the web browser?
+on servers and other devices that have javascript engine (v8 for google chrome)
+_what are tasks that javascript in-browser can preform?
+Manipulate HTML and CSS 
+Handle user events
+validate forms
+add interactivity
+make http requests
+store and manipulate data
+____________________________________________________________________________
+
